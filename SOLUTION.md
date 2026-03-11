@@ -1,5 +1,8 @@
 # SOLUTION.md — Secondary Marketplace
 
+📹 **Video Recording:**  
+[Watch the project walkthrough](https://drive.google.com/drive/folders/1xLC_3xl5_z51aDmTjOCCF9LUk-VE6k-t?usp=drive_link)
+
 ## What I Built
 
 I took the starter code (placeholder wireframes + a provided matching engine) and built out a functional secondary marketplace where users can browse digital security assets, place buy/sell orders, manage open orders, and track their portfolio — all wired end-to-end from the frontend through custom API routes down to the SQLite database.
