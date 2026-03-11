@@ -5,7 +5,7 @@ A digital securities trading platform built with Next.js 14, React 18, Material-
 **See [ASSIGNMENT.md](./ASSIGNMENT.md) for the take-home assignment instructions.**
 
 ---
-
+Open [Video recording for project]((https://drive.google.com/drive/folders/1xLC_3xl5_z51aDmTjOCCF9LUk-VE6k-t?usp=drive_link)) in your browser.
 ## Quick Start
 
 ```bash
